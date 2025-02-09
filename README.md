@@ -32,10 +32,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
-- [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
+- [AI Image Generator](https://www.aiimagegenerator.sh) - A free AI-powered logo art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
-  - **Contact**: https://x.com/aiimggenerator
+  - **Contact**: https://x.com/BeEureka_
 
 - [Lexica](https://lexica.art) - AI art search engine and generation platform.
   - **Tags**: `Free` `AI` `Search` `Generation` `Community`
